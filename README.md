@@ -1,4 +1,4 @@
-<h1 align="center">Primeiros passo em JavaScript</h1>
+<h1 align="center">Primeiros passos em JavaScript</h1>
 <p align="center">Aprendendo JavaScript no canal <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Curso em vídeo</a> com o Prof. Gustavo Guanabara</p>
 <hr> 
 <h2>Quebrando a Maldição</h2>
